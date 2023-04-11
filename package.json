@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "(MVP) - modal view presenter",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:"
+  },
+  "keywords": [
+    "modal",
+    "view",
+    "presenter",
+    "nodeJS"
+  ],
+  "author": "justMorv",
+  "license": "ISC"
+}
